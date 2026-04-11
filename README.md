@@ -11,3 +11,7 @@
 Regarding the use of AI:
 ---
 Ai was used, for fixing errors, such as a "__ Has no attribute __" error, that caused the tool to break, and for the output folder. Thanks for reading, have fun! - *im-lemon*
+
+---
+
+**THIS PROJECT HAS BEEN DISCONTINUED**
